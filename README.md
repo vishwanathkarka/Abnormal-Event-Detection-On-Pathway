@@ -62,6 +62,5 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 This project is licensed under the [MIT License](LICENSE).
 
----
+## Lecture survey [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969839/Abnormal_Event_Detection_On_Pathway__Copy_.1.pdf)
 
-Feel free to customize the README.md file according to your project's specific details and requirements. Make sure to include accurate instructions for installation, usage, and contribution guidelines.
