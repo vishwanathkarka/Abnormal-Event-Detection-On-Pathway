@@ -24,13 +24,8 @@ To enhance road safety and prevent accidents, this project focuses on developing
 
 2. Install dependencies:
 
-   ```bash
-   pip install  ultralytics
-  cloudinary
-  WTForms
-  flask
-  werkzeug
-  opencv-python
+   ``` 
+   pip install ultralytics cloudinary WTForms Flask Werkzeug opencv-python
    ```
 
 3. Set up Cloudinary account and obtain API credentials.
