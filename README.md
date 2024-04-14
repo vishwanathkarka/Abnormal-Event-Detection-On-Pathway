@@ -59,27 +59,12 @@ place it in ./best.pt
 ![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/b722e0e6-8aea-4f41-9c58-2283b9dc02dc)
 ![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/b9f4a875-eb86-472e-8576-2f1e082241b6)
 
+## project Explaination [Link](https://drive.google.com/file/d/1hnQsboWzqkuQzNM2pq6ix7YY2zOsk514/view?usp=sharing)
 
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
-
-## Project Document [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969800/main.doc.pdf)
-
-## Project PPT [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969845/Abnoramal.Event.Detection.on.Pathway.using.Yolo.pdf)
- 
-## Literature survey [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969839/Abnormal_Event_Detection_On_Pathway__Copy_.1.pdf)
-
-[Vamshi Yadav Literature Review.pdf](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969903/20R21A6606.Literature.Review.1.pdf)
-
-[Sudhansh Narayan Literature Review.pdf](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969902/20R21A6629.Literature.Review.pdf)
-
-
-[Vishwanath Reddy Karka Literature Review.pdf](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969901/21R25A6603.Literature.Review.1.pdf)
-
-
-[Aarya Gouthula Literature Review.pdf](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969900/20R21A6619.Literature.Review.2.pdf)
 
 ## License
 
