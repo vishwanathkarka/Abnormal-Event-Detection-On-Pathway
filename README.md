@@ -1,28 +1,4 @@
-# Abnormal Event Detection On Pathway Used Yolov8
-## Dependencies
-```dependency
-  pip install <package>
-  ultralytics
-  cloudinary
-  WTForms
-  flask
-  werkzeug
-  opencv-python
-  
-```
-## Model  [Link](https://drive.google.com/file/d/1j9kSzI7T8gUMLRnBlL3S1LXYimoXg9UG/view?usp=sharing) 
-place it in ./best.pt
-
-## Abstract
-To enhance road safety and prevent accidents, this project focuses on developing a system to detect abnormal activities on roads in real-time. With YOLOv8, an object detection model, our approach aims to identify various irregularities such as accidents, reckless driving, and pedestrian crossings. Through a comprehensive training process and fine-tuning of the YOLOv8 model, we adapt it to the specific requirements of road safety monitoring. At the beginning of the configuration, we discuss combining Flask for web application development and Cloudinary for video storage which provides the user with user authentication, video processing, and streaming. In the end, it detects the specific objects in a video stream, records segments of the video when these objects are detected, and then uploads the recorded segments to Cloudinary
-
-## Main Document [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969800/main.doc.pdf)
-
-Certainly! Below is a basic template for a README.md file for your GitHub repository:
-
----
-
-# Video Surveillance System using YOLO and Flask
+# Abnormal Event Detection On Pathway Using Video Surveillance System , YOLO and Flask
 
 This repository contains code for a video surveillance system implemented using YOLO (You Only Look Once) object detection and Flask web framework. The system is capable of detecting various events such as accidents, fighting, kidnapping, and chain snatching in real-time video streams or pre-recorded videos. It also provides a web interface for viewing the surveillance dashboard and accessing the detected videos.
 
@@ -33,6 +9,10 @@ This repository contains code for a video surveillance system implemented using 
 - Web interface for user authentication and viewing surveillance dashboard.
 - Support for both live video streams and pre-recorded videos.
 - Responsive UI for easy access from any device.
+
+## Abstract
+To enhance road safety and prevent accidents, this project focuses on developing a system to detect abnormal activities on roads in real-time. With YOLOv8, an object detection model, our approach aims to identify various irregularities such as accidents, reckless driving, and pedestrian crossings. Through a comprehensive training process and fine-tuning of the YOLOv8 model, we adapt it to the specific requirements of road safety monitoring. At the beginning of the configuration, we discuss combining Flask for web application development and Cloudinary for video storage which provides the user with user authentication, video processing, and streaming. In the end, it detects the specific objects in a video stream, records segments of the video when these objects are detected, and then uploads the recorded segments to Cloudinary
+
 
 ## Installation
 
@@ -45,7 +25,12 @@ This repository contains code for a video surveillance system implemented using 
 2. Install dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   pip install  ultralytics
+  cloudinary
+  WTForms
+  flask
+  werkzeug
+  opencv-python
    ```
 
 3. Set up Cloudinary account and obtain API credentials.
@@ -67,9 +52,16 @@ This repository contains code for a video surveillance system implemented using 
 - Monitor real-time object detection and view detected videos in the dashboard.
 - Customize object detection classes and thresholds as needed.
 
+## Model  [Link](https://drive.google.com/file/d/1j9kSzI7T8gUMLRnBlL3S1LXYimoXg9UG/view?usp=sharing) 
+place it in ./best.pt
+
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+
+## Project Document [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969800/main.doc.pdf)
 
 ## License
 
