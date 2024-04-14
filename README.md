@@ -18,4 +18,63 @@ To enhance road safety and prevent accidents, this project focuses on developing
 
 ## Main Document [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969800/main.doc.pdf)
 
+Certainly! Below is a basic template for a README.md file for your GitHub repository:
 
+---
+
+# Video Surveillance System using YOLO and Flask
+
+This repository contains code for a video surveillance system implemented using YOLO (You Only Look Once) object detection and Flask web framework. The system is capable of detecting various events such as accidents, fighting, kidnapping, and chain snatching in real-time video streams or pre-recorded videos. It also provides a web interface for viewing the surveillance dashboard and accessing the detected videos.
+
+## Features
+
+- Real-time object detection using YOLO.
+- Event-based recording and uploading of videos to Cloudinary.
+- Web interface for user authentication and viewing surveillance dashboard.
+- Support for both live video streams and pre-recorded videos.
+- Responsive UI for easy access from any device.
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Set up Cloudinary account and obtain API credentials.
+   
+4. Update the `cloudinary.config()` in `flaskapp.py` and `YOLO_video.py` with your Cloudinary API credentials.
+
+5. Run the Flask application:
+
+   ```bash
+   python flaskapp.py
+   ```
+
+6. Access the application in your web browser at `http://localhost:5000`.
+
+## Usage
+
+- Log in with your username and password to access the surveillance dashboard.
+- Upload a video file or provide a video stream URL.
+- Monitor real-time object detection and view detected videos in the dashboard.
+- Customize object detection classes and thresholds as needed.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+Feel free to customize the README.md file according to your project's specific details and requirements. Make sure to include accurate instructions for installation, usage, and contribution guidelines.
