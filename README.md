@@ -50,6 +50,15 @@ To enhance road safety and prevent accidents, this project focuses on developing
 ## Model  [Link](https://drive.google.com/file/d/1j9kSzI7T8gUMLRnBlL3S1LXYimoXg9UG/view?usp=sharing) 
 place it in ./best.pt
 
+## Results:
+
+
+![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/82568156-01a4-42d4-858e-920556dbb9bb)
+![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/7f5e8d9d-97ff-4bbc-bb9b-c4afaf1a8be0)
+![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/eaca13bb-39a0-4c38-ab4d-0da5efbe61e0)
+![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/b722e0e6-8aea-4f41-9c58-2283b9dc02dc)
+![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/b9f4a875-eb86-472e-8576-2f1e082241b6)
+
 
 ## Contributing
 
