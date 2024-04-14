@@ -58,9 +58,12 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Project Document [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969800/main.doc.pdf)
 
+## Project PPT [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969845/Abnoramal.Event.Detection.on.Pathway.using.Yolo.pdf)
+ 
+## Lecture survey [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969839/Abnormal_Event_Detection_On_Pathway__Copy_.1.pdf)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Lecture survey [LINK](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/files/14969839/Abnormal_Event_Detection_On_Pathway__Copy_.1.pdf)
 
