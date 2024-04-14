@@ -59,7 +59,10 @@ place it in ./best.pt
 ![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/b722e0e6-8aea-4f41-9c58-2283b9dc02dc)
 ![Abnormal Event Detection Images](https://github.com/vishwanathkarka/Abnormal-Event-Detection-On-Pathway/assets/86046138/b9f4a875-eb86-472e-8576-2f1e082241b6)
 
-## project Explaination [Link](https://drive.google.com/file/d/1hnQsboWzqkuQzNM2pq6ix7YY2zOsk514/view?usp=sharing)
+## Video Demonstration
+- Click here to get the detailed walkthrough of our project
+
+ [Link](https://drive.google.com/file/d/1hnQsboWzqkuQzNM2pq6ix7YY2zOsk514/view?usp=sharing)
 
 ## Contributing
 
